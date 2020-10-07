@@ -9,7 +9,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>Milksquid</name>
+    <name>MilkSquid</name>
 
     <description>Milk squids!</description>
     <properties>
