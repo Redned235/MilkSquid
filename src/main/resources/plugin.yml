@@ -1,0 +1,6 @@
+name: Milksquid
+version: ${project.version}
+main: me.redned.milksquid.MilkSquid
+api-version: 1.13
+authors: [Redned]
+description: Milk squids!
